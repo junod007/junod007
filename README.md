@@ -4,27 +4,18 @@ I'm an independent Web3 builder learning by building.
 
 My current focus is exploring smart contracts, EVM ecosystems,
 onchain payments, and agentic infrastructure through hands-on projects.
-
 ---
-Solidity Fundamentals → ERC20 → ERC721 → Voting → Treasury → Access Control  
-→ Payments → Escrow → Staking → AppKit → AI Agents → CCTP  
-→ Agent Payments → **ArcFlow**
----
-I'm exploring how onchain payment systems can work through:
-
-- Payment intents
-- Authorization
-- Execution
-- ERC20 transfers
-- Contract state transitions
-- Onchain transaction evidence
-  
 ## 🚀 ArcBuilder2026
 
 **ArcBuilder2026** is my public learning journey through smart contract
 development, blockchain infrastructure, and onchain applications.
 
 I build, deploy, test, verify, and document each step as I learn.
+
+Solidity Fundamentals → ERC20 → ERC721 → Voting → Treasury → Access Control  
+→ Payments → Escrow → Staking → AppKit → AI Agents → CCTP  
+→ Agent Payments → **ArcFlow**
+---
 
 ### 🧭 The Journey
 
@@ -33,7 +24,14 @@ I build, deploy, test, verify, and document each step as I learn.
 
 **ArcFlow** is my current project focus.
 
+I'm exploring how onchain payment systems can work through:
 
+- Payment intents
+- Authorization
+- Execution
+- ERC20 transfers
+- Contract state transitions
+- Onchain transaction evidence
 
 The goal isn't to pretend I already know everything.
 
