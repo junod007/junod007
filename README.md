@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Junod
+# 👋 Hi, I'm Heri Afrizal
 
 I'm an independent Web3 builder learning by building.
 
