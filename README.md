@@ -6,6 +6,10 @@ My current focus is exploring smart contracts, EVM ecosystems,
 onchain payments, and agentic infrastructure through hands-on projects.
 
 ---
+Solidity Fundamentals → ERC20 → ERC721 → Voting → Treasury → Access Control  
+→ Payments → Escrow → Staking → AppKit → AI Agents → CCTP  
+→ Agent Payments → **ArcFlow**
+---
 
 ## 🚀 ArcBuilder2026
 
@@ -17,12 +21,6 @@ I build, deploy, test, verify, and document each step as I learn.
 ### 🧭 The Journey
 
 **Day 01 → Day 32**
-
-Solidity Fundamentals → ERC20 → ERC721 → Voting → Treasury → Access Control  
-→ Payments → Escrow → Staking → AppKit → AI Agents → CCTP  
-→ Agent Payments → **ArcFlow**
----
-
 ## ⚡ ArcFlow
 
 **ArcFlow** is my current project focus.
