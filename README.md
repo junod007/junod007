@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./lonewolf-banner.png" width="100%">
+<img src="./web3-builder-banner.png" width="100%">
 
 </div>
 
@@ -39,3 +39,4 @@ Exploring how AI reasoning can become part of on-chain applications.
 - AI Service Quality Dispute Resolver
 - Milestone Change Order
 - Web3 Testing & Security Research
+- Base Builder
