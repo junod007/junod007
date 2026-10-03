@@ -10,7 +10,15 @@ Solidity Fundamentals → ERC20 → ERC721 → Voting → Treasury → Access Co
 → Payments → Escrow → Staking → AppKit → AI Agents → CCTP  
 → Agent Payments → **ArcFlow**
 ---
+I'm exploring how onchain payment systems can work through:
 
+- Payment intents
+- Authorization
+- Execution
+- ERC20 transfers
+- Contract state transitions
+- Onchain transaction evidence
+  
 ## 🚀 ArcBuilder2026
 
 **ArcBuilder2026** is my public learning journey through smart contract
@@ -25,14 +33,7 @@ I build, deploy, test, verify, and document each step as I learn.
 
 **ArcFlow** is my current project focus.
 
-I'm exploring how onchain payment systems can work through:
 
-- Payment intents
-- Authorization
-- Execution
-- ERC20 transfers
-- Contract state transitions
-- Onchain transaction evidence
 
 The goal isn't to pretend I already know everything.
 
